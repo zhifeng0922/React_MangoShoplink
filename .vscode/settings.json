@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/8c8f0e79-9ab8-478f-9a2b-3ccdad852b28/resourceGroups/react-dotnetmastery/providers/Microsoft.Web/sites/MangoShopLinkAPI",
+    "appService.deploySubpath": "."
+}
